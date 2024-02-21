@@ -26,7 +26,7 @@ export const metadata: Metadata = {
 const HeroBackground = () => (
     <div className="absolute inset-0 z-0">
       <Image
-        src="/images/hero/background7.jpg"
+        src="/images/projecten/middelharnis/Original/15.jpg"
         alt="Background Image"
         layout="fill"
         objectFit="cover"
