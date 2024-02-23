@@ -11,15 +11,6 @@ export const metadata: Metadata = {
   icons: {
     icon: '/favicon.ico',
   },
-  openGraph: {
-    title: "P. Troost afbouwbedrijf",
-    description: "P. Troost afbouwbedrijf is een afbouwbedrijf gespecialiseerd in het afbouwen van woningen en is gevestigd in Sommelsdijk.",
-    url: "https://ptroostafbouwbedrijf.nl",
-    siteName: "P. Troost afbouwbedrijf",
-    type: "website",
-    locale: "nl_NL",
-  },
-  metadataBase: new URL("https://ptroostafbouwbedrijf.nl"),
 };
 
 const OverOns = () => {
