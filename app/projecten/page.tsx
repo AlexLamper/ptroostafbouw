@@ -192,6 +192,7 @@ export default function Projecten() {
                       alt={`Project ${index + 1}`}
                       width={500}
                       height={300}
+                      loading="lazy"
                       style={{ width: '500px', height: '350px'}}
                       className="brightness-75 hover:brightness-100 hover:cursor-pointer transition-all duration-300 rounded-lg"
                       onClick={() => handleProjectClick(index)}
