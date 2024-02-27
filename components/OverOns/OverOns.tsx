@@ -22,7 +22,7 @@ const OverOns = () => {
           Welkom
         </p>
         <h2 className="lg:text-5xl text-3xl mb-12 max-w-[60%] max-sm:max-w-[95%] mx-auto">Kort over ons</h2>
-        <p className='max-w-[50%] max-sm:max-w-[90%] mx-auto text-lg' id='projecten'>Na 20 jaar werkervaring zijn we in 2012 als P. Troost afbouwbedrijf begonnen. We zijn gevestigd in Sommelsdijk, en werken in de regio zuid Holland. Ons werk, is het tegelen en stukadooren van woningen en badkamers in nieuwbouw/ verbouw en renovatie. We werken voor particulieren en aannemers. Vakkennis en kwaliteit worden door ons geleverd.</p>
+        <p className='max-w-[50%] max-sm:max-w-[90%] mx-auto text-lg' id='projecten'>Na 20 jaar werkervaring zijn we in 2012 als P. Troost afbouwbedrijf begonnen. We zijn gevestigd in Sommelsdijk, en werken in de regio zuid Holland. Ons werk, is het tegelen en stukadoren van woningen en badkamers in nieuwbouw/ verbouw en renovatie. We werken voor particulieren en aannemers. Vakkennis en kwaliteit worden door ons geleverd.</p>
       </div>
     </section>
   );
