@@ -22,7 +22,7 @@ const Footer = () => {
         <div className="w-full md:w-1/3 mb-4 md:mb-0 max-md:mb-8 flex justify-center md:justify-start">
           <div className="mx-auto md:mx-0">
             <Image
-              src="/images/logo/ptroost-logo3.png"
+              src="/images/logo/ptroost-logo4.png"
               alt="Image Alt Text"
               width={200}
               height={200}

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
 };
 
 const Navbar = ({ toggle }: { toggle: () => void }) => (
-  <div className="w-full h-20 sticky top-0 bg-[#0000002a] z-50">
+  <div className="w-full h-20 sticky top-0 bg-[#0000004b] z-50">
     <div className="container mx-auto px-4 h-full">
       <div className="flex justify-between items-center h-full">
         <Logo />
@@ -36,7 +36,7 @@ const Navbar = ({ toggle }: { toggle: () => void }) => (
             />
           </svg>
         </button>
-        <ul className="hidden md:flex gap-x-12 text-black text-lg font-medium">
+        <ul className="hidden md:flex gap-x-12 text-white text-lg font-medium">
           <li>
             <Link href="#over-ons">
               <p className="hover:underline underline-offset-4">Over Ons</p>

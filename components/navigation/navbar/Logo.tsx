@@ -24,7 +24,7 @@ const Logo = () => {
     <>
         <Link href="/" style={{ display: showButton ? "none" : "flex", alignItems: "center" }}>
             <Image 
-                src={"/images/logo/ptroost-logo3.png"} 
+                src={"/images/logo/ptroost-logo4.png"} 
                 alt={""}
                 width={200}
                 height={200}
